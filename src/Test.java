@@ -6,7 +6,4 @@ public class Test {
         System.out.println("bb");
     }
 
-    void cc(){
-        System.out.println("cc");
-    }
 }
