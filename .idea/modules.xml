@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Git.iml" filepath="$PROJECT_DIR$/Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_test02/git_test02.iml" filepath="$PROJECT_DIR$/git_test02/git_test02.iml" />
     </modules>
   </component>
 </project>
