@@ -5,4 +5,8 @@ public class Test {
     void bb(){
         System.out.println("bb");
     }
+
+    void cc(){
+        System.out.println("cc");
+    }
 }
